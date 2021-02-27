@@ -1,4 +1,4 @@
-[![<ORG_NAME>](https://circleci.com/gh/fabiojaremciuc/project-ml-microservice-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/fabio-jaremciuc/project-ml-microservice-kubernetes)
+[![<ORG_NAME>](https://circleci.com/gh/fabio-jaremciuc/project-ml-microservice-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/fabio-jaremciuc/project-ml-microservice-kubernetes)
 
 ## Setup the Environment
 
